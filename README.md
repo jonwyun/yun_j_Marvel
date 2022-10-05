@@ -1,14 +1,6 @@
 # Marvel character build
 
-All about Marvel heroes : Click on an image to learn more
-
-## Installation
-
-TODO: Describe the installation process
-
-## Usage
-
-TODO: Write usage instructions
+All about Marvel heroes ! Click on an image to learn more
 
 ## Contributing
 
@@ -18,14 +10,10 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
-
 ## Credits
 
-TODO: Write credits
+All images are copyright by Marvel
 
 ## License
 
-TODO: Write license
+MIT
